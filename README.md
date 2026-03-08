@@ -320,5 +320,5 @@ Redistribution prohibited. All rights reserved.
 
 Starting equity: **$163.48 USDT**
 
-![Day 0](day0_equity.png.png)
-![Day 0](day0_equity1.png.png)
+![Day 0 Equity](day0_equity.png)
+![Day 0 Equity 2](day0_equity1.png)
