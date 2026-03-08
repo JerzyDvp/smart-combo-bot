@@ -316,3 +316,9 @@ Redistribution prohibited. All rights reserved.
 > **Disclaimer:** Cryptocurrency trading involves substantial risk of loss.
 > The author provides this software as-is without warranty.
 > The buyer assumes full responsibility for all trading activity and financial results.
+## Live Performance — Day 0 (March 8, 2026)
+
+Starting equity: **$163.48 USDT**
+
+![Day 0](day0_equity.png.png)
+![Day 0](day0_equity1.png.png)
