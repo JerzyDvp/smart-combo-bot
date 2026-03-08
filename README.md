@@ -320,4 +320,4 @@ Redistribution prohibited. All rights reserved.
 
 Starting equity: **$163.48 USDT**
 
-![Day 0 Equity](Przechwycenie_obrazu_ekranu_2026-03-08_17-27-27.png)
+![Day 0](Przechwycenie_obrazu_ekranu_2026-03-08_17-27-27.png)
